@@ -98,7 +98,7 @@ Follow me on virtual networks and GitHub to help each other build a better world
 
 
 ## **Contact Information** :telephone_receiver:
-- **telegram:** [t.me/MrEliasKarimzadeh] :telephone:
+- **telegram:** [t.me/MrEliasKarimzadeh] :telegram:
 - **Email:** [elyas.karymzade@gmail.com] :envelope:
 - **GitHub:** [EliasKarimzadeh] :octocat:
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)] :briefcase:
