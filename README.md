@@ -75,7 +75,7 @@ Follow me on virtual networks and GitHub to help each other build a better world
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/elyaskarymzade/)
-[![protonmail](https://img.shields.io/badge/-nouriannajafabadi@proton.me-000?&logo=protonmail)](mailto:Elias.Karimzadeh@proton.me)
+[![protonmail](https://img.shields.io/badge/-Elias.Karimzadeh@proton.me-000?&logo=protonmail)](mailto:Elias.Karimzadeh@proton.me)
 
 
 
