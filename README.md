@@ -17,6 +17,17 @@
 
 
 <h1 align="left">Hi there, I am Elias Karimzadeh 👋</h1>
+
+## Hello, fellow coders and curious minds!
+
+Love to learn!
+
+Yes, I love learning more and more. Seeking to discover and learn new sciences
+
+My interest is using technology in old sciences to improve them. For example, using artificial intelligence and data network for better and faster diagnosis of diseases.
+
+Follow me on virtual networks and GitHub to help each other build a better world with the help of computers
+
   
 ### Technology:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
@@ -78,15 +89,7 @@
 - **Email:** [elyas.karymzade@gmail.com] :envelope:
 - **GitHub:** [EliasKarimzadeh] :octocat:
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)] :briefcase:
-## Hello, fellow coders and curious minds!
 
-Love to learn!
-
-Yes, I love learning more and more. Seeking to discover and learn new sciences
-
-My interest is using technology in old sciences to improve them. For example, using artificial intelligence and data network for better and faster diagnosis of diseases.
-
-Follow me on virtual networks and GitHub to help each other build a better world with the help of computers
 
 ## **Objective:** :dart:
 Identify creative solutions to make life easier
