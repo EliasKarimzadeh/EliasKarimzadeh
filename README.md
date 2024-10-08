@@ -3,7 +3,7 @@
 #### My Social Networks
 
 <a href="[https://www.linkedin.com/in/effati78](https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)" target="_blank">
-<img src="https://user-images.githubusercontent.com/56348113/202894111-e6dda54b-8937-47ac-93f6-770617cda70c.svg" alt="linkedin" width="70">
+<img src="https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/" alt="linkedin" width="70">
 </a>
 
 <a href="https://t.me/MrEliasKarimzadeh" target="_blank">
