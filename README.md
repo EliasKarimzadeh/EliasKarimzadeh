@@ -1,14 +1,17 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Joti+One&size=40&pause=1000&color=6CC644&vCenter=true&width=590&lines=I'm+Reza+Effati+Moghaddam;Web+Developer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Always+learning+a+new+things)](https://git.io/typing-svg)
 
+
 #### My Social Networks
 
 <a href="[https://www.linkedin.com/in/effati78](https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)" target="_blank">
 <img src="https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/" alt="linkedin" width="70">
 </a>
 
+
 <a href="https://t.me/MrEliasKarimzadeh" target="_blank">
 <img src="https://user-images.githubusercontent.com/56348113/202894127-727e0f44-c95c-46af-b1bd-63bb850de110.svg" alt="telegram" width="70">
 </a>
+
 
 <a href="https://www.instagram.com/elyaskarymzade/" target="_blank">
 <img src="https://user-images.githubusercontent.com/56348113/202894124-1ad37b41-e42a-4bef-afbf-cdfb872165e9.svg" alt="instagram" width="70">
@@ -17,6 +20,7 @@
 
 
 <h1 align="left">Hi there, I am Elias Karimzadeh 👋</h1>
+
 
 ## Hello, fellow coders and curious minds!
 
@@ -27,6 +31,7 @@ Yes, I love learning more and more. Seeking to discover and learn new sciences
 My interest is using technology in old sciences to improve them. For example, using artificial intelligence and data network for better and faster diagnosis of diseases.
 
 Follow me on virtual networks and GitHub to help each other build a better world with the help of computers
+
 
   
 ### Technology:
@@ -65,10 +70,14 @@ Follow me on virtual networks and GitHub to help each other build a better world
 ![prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
 ![telegraf](https://img.shields.io/badge/-Telegraf.js-000?&logo=telegram)
 
+
+
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/elyaskarymzade/)
 [![protonmail](https://img.shields.io/badge/-nouriannajafabadi@proton.me-000?&logo=protonmail)](mailto:Elias.Karimzadeh@proton.me)
+
+
 
 ### Github Profile Details:
 
@@ -80,15 +89,21 @@ Follow me on virtual networks and GitHub to help each other build a better world
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliasKarimzadeh&theme=github_dark"/>
 </p>
 
+
 <div align="left">
 <img height="160em" src="https://github.com/EliasKarimzadeh/About/blob/output/github-contribution-grid-snake.svg?palette=github">
 </div>
+
+
+
 
 ## **Contact Information** :telephone_receiver:
 - **telegram:** [t.me/MrEliasKarimzadeh] :telephone:
 - **Email:** [elyas.karymzade@gmail.com] :envelope:
 - **GitHub:** [EliasKarimzadeh] :octocat:
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/elias-karimzadeh-a7a9b8283/)] :briefcase:
+
+
 
 
 ## **Objective:** :dart:
